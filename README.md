@@ -4,6 +4,7 @@ The Electronic Product Database is designed to manage the inventory and sales of
 The sales transaction process is handled through the sales_transaction and sales_transaction_product tables, which record transaction details, payment methods, and the number of products sold. Each sale is associated with an employee, stored in the employee table, allowing management to track individual employee contributions to sales. This structure ensures that every transaction is linked to both the products being sold and the employees processing the sales, making it easier to evaluate performance and analyze revenue trends.
 By integrating inventory, sales, and employee management, this database provides businesses with real-time insights into product performance, stock availability, and financial transactions. The structured relationships between tables allow for streamlined data retrieval, enabling managers to make data-driven decisions regarding restocking, sales strategies, and employee performance evaluations. This system ultimately helps improve operational efficiency, profitability, and customer satisfaction by ensuring that products are always available and transactions are accurately recorded.
 
+<img width="507" alt="Screenshot 2025-03-14 at 4 12 12 PM" src="https://github.com/user-attachments/assets/6d3dc2d5-b1c3-41f9-acee-eb9aa9696da3" />
 
 
 
